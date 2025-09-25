@@ -146,5 +146,4 @@ java -ea -cp bin edu.ccrm.cli.Main
 
 ---
 
-## 📎 GitHub Repository
-🔗 [https://github.com/example/ccrm-java](https://github.com/example/ccrm-java)
+
